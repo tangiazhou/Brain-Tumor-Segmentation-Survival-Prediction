@@ -1,0 +1,13 @@
+# Data
+data/slices/
+data/*.csv
+
+# Outputs
+outputs/
+__pycache__/
+*.pyc
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
